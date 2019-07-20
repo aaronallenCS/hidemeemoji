@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HideMe</string>
+    <string name="sub_text_view_str">A fun way to alter your picture to make them more anonymous!</string>
+    <string name="go_button_txt">Emojify Me!</string>
+    <string name="image_view_desc">The imageivew that contains the emojified picture</string>
+    <string name="title_app">Hide Me, Emoji!</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+</resources>
